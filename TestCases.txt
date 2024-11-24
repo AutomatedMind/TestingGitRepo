@@ -1,1 +1,1 @@
-Test Case 1: Verify login functionality.
+Test Case 1: Verify login and home page functionality.
