@@ -1,0 +1,3 @@
+This file contains information about testing automation.
+- Tools: Selenium, Postman
+- Frameworks: TestNG, Cucumber
