@@ -1,2 +1,1 @@
 Test Case 1: Verify login functionality.
-Test Case 2: Validate form submission.
